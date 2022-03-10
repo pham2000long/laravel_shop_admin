@@ -1,0 +1,12 @@
+.select2-selection__choice {
+    background-color: #232020 !important;
+}
+
+img.image_detail_product, .image_avatar{
+    width: 100%;
+    object-fit: cover;
+}
+
+.container_feture_image, .container_image_detail{
+    margin-top: 20px;
+}
